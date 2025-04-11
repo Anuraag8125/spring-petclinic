@@ -17,8 +17,6 @@ This is a Demo session practice
 <packaging>war</packaging>
   
   <properties>
-
-    <!-- this is first practice ssh push changes 2025.03.17-->
     <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
